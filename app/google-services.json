@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766994037232",
+    "project_id": "myanmar-book-5572d",
+    "storage_bucket": "myanmar-book-5572d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766994037232:android:e0a6219c487ef666ad0535",
+        "android_client_info": {
+          "package_name": "com.life.myanmarbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766994037232-vint91cdfeb1bid79ab7nllt0r4iku9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfzTtUCp18nvFtiguzSRVq7M2b91warnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766994037232-vint91cdfeb1bid79ab7nllt0r4iku9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
