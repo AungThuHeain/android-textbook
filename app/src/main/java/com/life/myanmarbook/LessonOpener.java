@@ -81,6 +81,16 @@ public class LessonOpener extends AppCompatActivity {
             startActivity(start);
             finish();
         }
+        if(getItam.equals("Grade 1 လူမှုရေး")){
+            Intent start = new Intent(getApplicationContext(), OneSocial.class);
+            startActivity(start);
+            finish();
+        }
+        if(getItam.equals("Grade 1 စာရိတ္တနှင့် ပြည်သူ့နီတိ")){
+            Intent start = new Intent(getApplicationContext(), OneMoral.class);
+            startActivity(start);
+            finish();
+        }
 
 
 

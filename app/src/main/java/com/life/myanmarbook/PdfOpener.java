@@ -22,7 +22,7 @@ import javax.net.ssl.HttpsURLConnection;
 public class PdfOpener extends AppCompatActivity {
     private static final String TAG = "PdfOpener";
 //     Grade 1 myanmar start
-    String onemm1 ="https://mmtextbook.s3.ap-southeast-1.amazonaws.com/g1/G1Text_Mm_Unit1_compressed+(1).pdf";
+    String onemm1 ="https://mmtextbook.s3.ap-southeast-1.amazonaws.com/g1/G1Text_Mm_Unit1_compressed.pdf";
     String onemm2 ="https://mmtextbook.s3.ap-southeast-1.amazonaws.com/g1/Myanmar/G1Text_Mm_Unit2_compressed.pdf";
     String onemm3 ="https://mmtextbook.s3.ap-southeast-1.amazonaws.com/g1/Myanmar/G1Text_Mm_Unit3_compressed.pdf";
     String onemm4 ="https://mmtextbook.s3.ap-southeast-1.amazonaws.com/g1/Myanmar/G1Text_Mm_Unit4_compressed.pdf";
